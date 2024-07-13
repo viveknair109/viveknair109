@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Vivek.
+- 👀 I’m interested in making an impact in the world of Machine Learning.
+- 💞️ I’m looking to collaborate on cool machine learning projects with the ML enthusiasts.
